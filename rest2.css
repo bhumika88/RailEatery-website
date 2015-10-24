@@ -1,0 +1,153 @@
+#RestrauntHeading
+
+{
+	top : -10px;
+	padding-left :40px;
+	font-size : 40px;
+	font-family : "Comic sans ms";
+	font-weight : 1000px;
+	color : #cc0000;
+
+	
+}
+
+
+
+#MAIN{
+	position : absolute ;
+	top : 110px;
+	background-color : white;
+	height : 500px;
+	font-family : comic sans ;
+	font-size : 20px;
+	right : 130px;
+	left : 280px; 
+	overflow : hidden;
+	width : 800px;
+	
+}
+
+
+
+#abt1 {
+	position :absolute;
+	top : 120px;
+	left : 0px;
+	background-color :white;
+	padding-top : 20px;
+	padding-left : 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family :Bitstream Charter;
+	border-bottom : 5px #d7d7d7 solid;
+	padding-bottom : 25px;
+	z-index : 0;
+}
+
+.logores
+{
+	
+	position :relative;
+	top:5px;
+	left : 5px;
+	float : left;
+	display :  inline;
+	border : 2px solid grey;
+	
+	
+}
+
+#view
+{
+	float : right;
+	position : absolute;
+	top : 50px;
+	right : 10px;
+}
+.resinfo
+{
+	position : relative;
+	top : 0px;
+	right : 160px;
+	width : 450px;
+	font-family : centaur;
+	font-size : 20px;
+	padding-top: -5px;
+	padding-left : 10px;
+	padding-right : 10px;
+	font-weight : 550;
+	float : right;
+	overflow : hidden;	
+	background-color : white;
+	color : #bccaca;
+	z-index : 10;
+	
+}
+
+
+#resname
+{
+	color:#ff6600;
+	font-size : 30px;
+	font-family : comic sans ms;	
+}
+
+
+#orderbutton
+{
+	background-color : #3385ff;
+	font-family: Estrangelo Edessa;
+	font-size : 25px;
+	font-weight : 700px;
+	color : white;
+	padding-right : 50px;
+	height : 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align : center;	
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	float : right;
+	cursor : hand;
+}
+
+#orderbutton : hover {
+	background-color : blue;
+}
+
+
+#abt2{
+	position :absolute;
+	top : 330px;
+	left : 0px;
+	background-color : white;
+	padding-top : 20px;
+	padding-left : 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family :Bitstream Charter;
+	border-bottom : 5px #d7d7d7 solid;
+	padding-bottom : 25px;
+	
+}
+
+
+#abt3{
+	position :absolute;
+	top : 680px;
+	left : 0px;
+	background-color :white;
+	padding-top : 20px;
+	padding-left : 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family :Bitstream Charter;
+	border-bottom : 5px #d7d7d7 solid;
+	padding-bottom : 25px;
+	
+}
+
+
+

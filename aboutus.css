@@ -1,0 +1,162 @@
+#footer {
+	position : relative;
+	top :200px;
+	background-color : #202425;
+	padding-top : 30px;
+	padding-left : 20px;
+	height :200px;
+	
+	
+}
+
+
+.t1 {
+	
+	border-collapse: separate;
+        border-spacing: 40px 10px;
+}
+
+.t1 thead
+{
+	color :#8e9091;
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+}
+
+.t1 tbody
+{
+	
+	font-size : 20px;		
+	font-weight : 900px;
+	font-family : "times new roman";
+	color : #4c4e4f;
+}
+
+#network
+{	
+	color : #8e9091;	
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	padding-left : 50px;
+}
+
+#join
+{
+	position : relative;
+	float : right;
+	right : 150px;
+	align : center;
+	font-size : 20px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	top : 10px;
+	color : #4c4e4f;
+}
+
+
+
+
+#info 
+{
+	position : absolute;
+	float : left ;
+	left : 10px;
+	top : 50px;	
+}
+
+
+
+#container {
+	position : relative;
+	top : 110px;
+	left : 0px;
+	height : 45px;
+	margin-left : -10px;
+	margin-right :-10px;
+	padding-top : 20px;
+	padding-left : 170px;
+	font-size : 25px;
+	font-family : sans sarif;
+}
+
+#main {
+	position : relative ;
+	top : 110px;
+
+	height : 1250px;
+	font-family : comic sans ;
+	font-size : 20px;
+	right : 170px;
+	left : 200px; 
+	overflow : hidden;
+	width : 800px;
+	
+}
+
+#abt1 {
+	position : relative;
+	top : 20px;
+	left : 10px;
+	padding-left : 20px;
+	padding-top: 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family :Bitstream Charter;
+	
+}
+
+#abt2 {
+	position : relative;
+	top : 60px;
+	left : 10px;
+	padding-top : 20px;
+	padding-left : 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family :Bitstream Charter;
+	
+}
+
+
+#abt3 {
+	position : relative;
+	top : 90px;
+	left : 10px;		
+	padding-top : 20px;
+	padding-left : 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family :Bitstream Charter;
+	
+}
+
+#abt4 {
+	position : relative;
+	top : 200px;
+	left : 10px;
+	padding-top : 20px;
+	padding-left : 20px;
+	width : 760px;
+	font-size : 25px;
+	font-family : Bitstream Charter ;
+	
+}
+
+#title {
+	color : green;
+	font-size : 40px;
+	font-weight : 1300px;
+	font-family : Bitstream Charter ;
+}
+
+
+.subhead {
+	color : red;
+	font-size : 30px;
+	font-weight : 1000px;
+	font-family : Bitstream Charter ;
+	border-bottom : 3px gray solid;
+	padding-bottom : 10px;
+}

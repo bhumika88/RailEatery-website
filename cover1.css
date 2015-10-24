@@ -1,0 +1,138 @@
+#footer {
+	position : relative;
+	top :700px;
+	background-color : #3f3f3e;
+	padding-top : 30px;
+	padding-left : 20px;
+	height :200px;
+	
+	
+}
+
+
+.t1 {
+	
+	border-collapse: separate;
+    border-spacing: 40px 10px;
+}
+
+.t1 thead
+{
+	color : white
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+}
+
+.t1 tbody
+{
+	
+	font-size : 20px;		
+	font-weight : 900px;
+	font-family : "times new roman";
+	color :white;
+}
+
+#network
+
+{	color : white;
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	padding-left : 50px;
+}
+
+#join
+{
+	position : relative;
+	float : right;
+	right : 150px;
+	align : center;
+	font-size : 20px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	color : white;
+	top : 10px;
+}
+
+
+
+
+#info 
+{
+	position : absolute;
+	float : left ;
+	left : 10px;
+	top : 50px;	
+}
+#wrapper
+{
+	background-image : url("images/back14.jpg");
+	background-repeat: no-repeat;
+	width : 100%;
+	height : 100%;
+	background-attachment : fixed;
+	background-size : cover;
+}
+
+#logindetails
+{
+	position : absolute;
+	top : 200px;
+	left: 450px;
+	margin-left: -5px;
+	margin-top : -10px;
+}
+
+fieldset 
+{
+	border : 5px none gray;
+	 
+}
+
+#login
+{
+	position : relative;
+	left : 120px;
+	display : inline;
+}
+.inputsmall 
+{
+	width : 370px;
+	height :50px;
+
+	border : 2px #f4f57 solid;
+
+	border-top-left-radius: 5px;
+
+	border-top-right-radius: 5px;
+
+	
+	border-bottom-left-radius: 5px;
+
+	border-bottom-right-radius: 5px;
+	
+font-family:sans-serif;
+
+        font-size:20px;
+
+ 	resize : none;
+	padding-top : 15px;
+	padding-left : 15px;
+}
+
+h2 {
+	position:relative;
+	top : 30px;
+	font-size : 30px;
+	font-weight : bold;
+	color : black;
+
+}
+
+
+#lst
+{
+	font-size : 20px;
+	font-weight : 1500px;
+}

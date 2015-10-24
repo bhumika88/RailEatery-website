@@ -1,0 +1,340 @@
+
+
+
+
+#header 
+{
+
+background-image : url("images/back9.jpg");
+background-repeat:no-repeat;
+background-size:100%;
+position : relative;
+top : 100px;
+overflow : hidden;
+margin-left : 0px;
+margin-right :0px;
+height : 380px;
+}
+
+.error{
+	color : red;
+	font-size : 15px;
+	font-family :"sans-serif";
+	font-weight :bold;	
+}
+
+#heading
+{
+	font-family  :"Comic Sans MS";
+	color  : black;
+	text-align : center;	
+	top : 100px;
+	left : 150px;
+	font-size : 40px;
+	font-weight : 1200px;
+	padding-top : 20px;
+	
+}
+
+
+
+#mid
+{
+	 width:550px;
+	position : absolute;
+	border : 4px black solid;
+	top : 110px;
+	left : 350px;
+	right:300px;
+	height : 220px;
+	background-color : white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+
+}
+
+textarea.input 
+{
+	
+	width : 450px;
+	height :30px;
+	border : 2px #f4f57 solid;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-family:sans-serif;
+        font-size:15px;
+	overflow : auto;
+ 	resize : none;
+	padding-top : 5px;
+	padding-left : 5px;
+}
+
+h2{
+	font-family : "Myriad Pro";
+	font-weight : 400;
+	font-size : 200%;
+	text-align : left;
+	text-shadow : 2px 2px 5px black;
+	text-decoration : underline;
+}
+
+.topics{
+
+	font-size:50px;
+	text-align : center;
+}
+
+.step{
+padding-top:8px;
+font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight:bold;
+ text-align:center;
+}
+
+.button
+{
+	
+background-color : #a30000;
+	
+font-family: comic sans ms;
+	
+font-size : 20px;
+
+color : white;
+	
+text-align : center;
+	
+margin-left : 40%;
+	
+margin-bottom : 30px;
+	
+border-top-left-radius: 10px;
+
+	border-top-right-radius: 10px;
+
+	border-bottom-left-radius: 10px;
+
+	border-bottom-right-radius: 10px;
+}
+
+
+.stepimages{
+
+height:100px; 
+width:100px; 
+border:4px thick #8e0823;
+border-radius:140px;
+position : relative;
+left :80px;
+}
+
+
+#step4img{
+
+	height:100px; 
+	width:100px; 
+	border:4px thick #8e0823;
+	border-radius:140px;
+	position : relative;
+	left :100px;
+}
+
+
+#m-top h4{
+   color:black;
+   text-align:center;
+}
+
+
+
+#steps {
+	background-color : white;
+	position : relative;
+	top: 40px;
+	height : 350px;
+}
+
+
+#rowtext
+{
+	background-color : white;
+	position : absolute;
+	top : 120px;
+	padding-top : 20px;
+		
+height :`700px;
+	width : 1250px;
+	
+}
+
+#stepstoorder{
+	position : relative;
+	top : 20px;
+	background-color : white;
+	height : 100px;
+	padding-bottom : 20px;	
+	
+}
+
+#step1 {
+	position : relative;
+	background-color : white;
+	left : 30px;
+	width : 250px;
+	float : left;
+}
+
+#step2 {
+	position : relative;
+	background-color : white;
+	left : 100px;
+	float : left;
+	width : 250px;
+}
+	
+#step3 {
+	position : relative;
+	background-color : white;
+	left : 120px;
+width : 230px;
+	float : left;
+}
+
+#step4 {
+	position : relative;
+	background-color : white;
+	left : 210px;
+	float : left;
+}
+#trans
+{
+border-bottom : 4px solid gray;
+	padding-top :10px;
+}
+
+
+.inputsmall 
+{
+	
+	width : 370px;
+	height :50px;
+
+	border : 2px #f4f57 solid;
+
+	border-top-left-radius: 5px;
+
+	border-top-right-radius: 5px;
+	
+	border-bottom-left-radius: 5px;
+
+	border-bottom-right-radius: 5px;
+	
+font-family:sans-serif;
+
+        font-size:20px;
+
+ 	resize : none;
+	padding-top : 15px;
+	padding-left : 15px;
+}
+
+
+#footer {
+	position : relative;
+	top :100px;
+	background-color : #202425;
+	padding-top : 30px;
+	padding-left : 20px;
+	height :200px;
+	
+	
+}
+
+
+.t1 {
+	
+	border-collapse: separate;
+    border-spacing: 40px 10px;
+}
+
+.t1 thead
+{
+	color :#8e9091;
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+}
+
+.t1 tbody
+{
+	
+	font-size : 20px;		
+	font-weight : 900px;
+	font-family : "times new roman";
+	
+color : #4c4e4f;
+}
+
+#network
+{	
+	color : #8e9091;	
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	padding-left : 50px;
+}
+
+#join
+{
+	position : relative;
+	float : right;
+	right : 150px;
+	align : center;
+	font-size : 20px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	
+	top : 10px;
+	color : #4c4e4f;
+}
+
+
+
+
+#info 
+{
+	position : absolute;
+	float : left ;
+	left : 10px;
+	top : 50px;	
+}
+
+#list
+{
+	 width:300px;
+	position : absolute;
+	
+	top : 110px;
+	left : 20px;
+	float : left;
+	height : 220px;
+	color:black;
+	font-family : ubuntu condensed;
+	font-size : 20px; 
+
+}
+
+#lst1
+{
+	position : absolute;
+	left : 20px;
+	color:black;
+	font-family : ubuntu condensed;
+	font-size : 25px; 
+	font-weight : bold;
+	text-decoration : underline;
+}

@@ -1,0 +1,31 @@
+<html>
+<head>
+	<link rel = "stylesheet" type = "text/css" href = "front1.css">
+
+</head>
+
+<body>
+
+<div id = "wrapper">
+
+<div id = "head"><center><img id = "img1" src = "images/chef1.jpg" height = "120px" width = "150px"><h2>RAIL EATERY WELCOMES YOU !!!!!!</h2></center>	</div>
+	
+			<br><br><br>
+		<center><h2 id = "h2"> Discover  the joy of online food ordering in train!!!!</h2></center><img id = "img3" src = "images/anitrain.gif" height = "100px" width = "120px"> <BR><BR><BR>
+			
+			<BR><BR>
+	
+
+<span id = "yummy"><CENTER> Login Here to order delicious food for travel..............</center><img id = "img2" src = "images/yummy.jpg" height = "120px" width = "120px"></span><BR><BR>
+	<input type = "submit" value = "Login" id = "signup"  onclick = "window.open('login1.php','_self');">
+	<marquee direction="right" id = "marquee"><img src = "images/anitrain.gif"  height = "90px" width = "150px"></marquee>
+</div>
+
+</body>
+</html>
+
+</body>
+
+
+</html>
+

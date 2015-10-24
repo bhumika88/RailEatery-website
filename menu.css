@@ -1,0 +1,313 @@
+#abt1 {
+	position : relative;
+	top : 110px;
+	left : 0px;
+	height : 180px;
+	background-image  : url("images/back4.jpg");
+	background-repeat : no-repeat;
+	background-size : 100%;
+	margin-left : -10px;
+	margin-right :-10px;
+	padding-top : 20px;
+	padding-left : 200px;
+	font-size : 25px;
+	font-family : sans sarif;
+	border-bottom : 4px solid black;
+}
+
+#orderbutton
+{
+	background-color : #3385ff;
+	font-family: Estrangelo Edessa;
+	font-size : 25px;
+	font-weight : 700px;
+	color : white;
+	padding-right : 50px;
+	height : 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align : center;	
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	float : left;
+	cursor : hand;
+	position : relative;
+	left  : 700px;
+	top : 30px;
+
+}
+
+
+.logores
+{
+	
+	position :relative;
+	top:5px;
+	left : 5px;
+	float : left;
+	display :  inline;
+	border : 5px solid white;
+	
+}
+
+.resinfo
+{
+	position : relative;
+	top : 0px;
+	right : 300px;
+	width : 600px;
+	font-family : centaur;
+	font-size : 20px;
+	padding-top: -5px;
+	padding-left : 10px;
+	padding-right : 10px;
+	font-weight : bold;
+	font-style : bold;
+	float : right;
+	overflow : hidden;	
+	
+	color : #bccaca;	
+}
+
+#resname
+{
+	color:white;
+	font-size : 35px;
+	font-weight : 1600px;
+	font-family : comic sans ms;	
+}
+
+
+#heads 
+{
+	position : absolute;	
+	top:330px;
+	background-color : white;
+	width : 100%;
+	left : -10px;
+	
+	
+}
+
+
+#chefimg {
+	position :relative;
+	top:5px;
+	right: 800px;
+	float : right;
+	display :  inline;
+	border : 2px solid grey;
+	
+}
+
+#menuheading {
+	position : relative;
+	top : 0px;
+	left: 500px;
+	width : 100px;
+	
+	padding-top: -5px;
+	padding-left : 10px;
+	padding-right : 10px;
+	
+	font-size : 30px;
+	font-weight : 1600px;
+	font-family : comic sans ms;	
+
+	float : left;
+	overflow : hidden;	
+	
+	
+}
+
+
+
+#placeyourorder{
+	position : absolute ;
+	top : 330px;
+	
+	height : 1300px;
+	font-family : comic sans ;
+	right : 130px;
+	left : 200px; 
+	overflow : hidden;
+	width : 700px;
+	color : black;
+	
+	background-image  : url("images/back10.jpg");
+	background-repeat : repeat-y;
+	background-size : 100%;
+}
+
+#h4
+{
+	font-size : 30px;
+	color : white;
+}
+
+
+
+.rowprice {
+	width : 100px;
+	font-size : 25px;
+	font-weight : bold;
+	color:white;
+
+}
+
+.rowquantity {
+	width : 100px;
+	font-size : 25px;
+	font-weight : bold;
+	color:white;
+}
+
+.rowdish {
+	width : 300px;
+font-size : 25px;
+	font-weight : bold;
+	color:white;
+}
+
+.rowcart {
+	width : 200px;
+font-size : 25px;
+	font-weight : bold;
+	color:white;
+}
+
+#order {
+
+	background-color :#99325b;
+	
+	font-family: Estrangelo Edessa;
+	
+	font-size : 25px;
+	font-weight : 900px;
+	
+	color : white;
+	height : 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align : center;	
+	border-top-left-radius: 8px;
+
+	border-top-right-radius: 8px;
+
+	border-bottom-left-radius: 8px;
+
+	border-bottom-right-radius: 8px;
+		z-index : 10;
+	cursor : hand;
+}
+
+#footer {
+	position : relative;
+	top :1500px;
+	background-color : #202425;
+	padding-top : 30px;
+	padding-left : 20px;
+	height :250px;
+	border-top : 4px solid grey;
+	
+	
+}
+
+.t3 {
+	
+	border-collapse: separate;
+    border-spacing: 40px 10px;
+}
+.t2 {
+	
+	border-collapse: separate;
+    border-spacing: 4px 10px;
+}
+
+.t2 thead
+{
+	color : #4c4e4f;
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+}
+
+.t3 tbody
+{
+	
+	font-size : 20px;		
+	font-weight : 900px;
+	font-family : "times new roman";
+	color :white;
+}
+
+.t3 thead
+{
+	color : white;
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+}
+
+.t2 tbody
+{
+	
+	font-size : 20px;		
+	font-weight : 900px;
+	font-family : "times new roman";
+	color :#8e9091;
+}
+
+#network
+
+{	color : #4c4e4f;
+	font-size : 30px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	padding-left : 50px;
+}
+
+#join
+{
+	position : relative;
+	float : right;
+	right : 150px;
+	align : center;
+	font-size : 20px;		
+	font-weight : 1300px;
+	font-family : "times new roman";
+	color : #8e9091;
+	top : 10px;
+}
+
+
+
+
+#info 
+{
+	position : absolute;
+	float : left ;
+	left : 10px;
+	top : 50px;	
+}
+
+#rail
+{
+	position : fixed;
+	top:20px;
+	left : 250px;
+	background-color : white;
+	
+	font-family : Purisa;
+	text-border : green
+	float : left;
+	display :  block;
+	font-size : 30px;
+	font-weight : bold;
+	padding-top : 20px;
+	z-index :500;
+
+}
+

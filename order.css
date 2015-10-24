@@ -1,0 +1,181 @@
+#header 
+{
+
+background-image : url("backfood.jpg");
+position : relative;
+top : 100px;
+overflow : hidden;
+margin-left : 0px;
+margin-right :0px;
+height : 550px;
+}
+
+#heading
+{
+	font-family  :"Comic Sans MS";
+	color  : white;
+	text-align : center;	
+	top : 100px;
+	left : 150px;
+	font-size : 40px;
+	font-weight : 1200px;
+	padding-top : 20px;
+	
+}
+
+#mid
+{
+	 
+	position : absolute;
+	border : 4px black solid;
+	top : 110px;
+	left : 300px;
+	right:300px;
+	height : 400px;
+	background-color : white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+textarea.input 
+{
+	
+width : 400px;
+	height :30px;
+
+	border : 2px #f4f57 solid;
+
+	border-top-left-radius: 5px;
+
+	border-top-right-radius: 5px;
+	
+	border-bottom-left-radius: 5px;
+
+	border-bottom-right-radius: 5px;
+	
+	font-family:sans-serif;
+
+        font-size:15px;
+
+	overflow : auto;
+
+ 	resize : none;
+	padding-top : 5px;
+	padding-left : 5px;
+}
+
+h2{
+	
+font-family : "Myriad Pro";
+
+	font-weight : 400;
+
+	font-size : 200%;
+
+	text-align : left;
+
+	text-shadow : 2px 2px 5px black;
+
+	text-decoration : underline;
+}
+.button
+{
+	
+background-color :#33ccff;
+	
+font-family: comic sans ms;
+	
+font-size : 18px;
+font-weight : 1200px;
+
+color : white;
+height :35px;
+width : 150px;
+	
+text-align : center;
+	padding-left:5px;
+padding-bottom:2px;
+	padding-top:2px;
+border-top-left-radius: 10px;
+
+	border-top-right-radius: 10px;
+
+	border-bottom-left-radius: 10px;
+
+	border-bottom-right-radius: 10px;
+}
+
+
+
+
+.table{
+width :1000px;
+height :20px;
+border:none;
+border-top:none;
+padding-top :50px;
+border-spacing : 5px 10px;
+border-collapse: separate;
+}
+.table thead{
+background:#33cc33;
+color:white;
+}
+.table tbody{
+background:white;
+}
+.col h1{
+font-size:160%;
+text-align:center;
+color:#33cc33;
+
+}
+
+.col
+{
+
+padding-bottom:5px;
+}
+.table tr{
+padding-top:1000px;
+}
+
+.table tr:hover{
+	background:#33cc33;
+	
+}
+
+
+
+#m-top{
+min-height:800px;
+
+position :relative;
+height : 300px;
+top : 100px;
+left : 50px;
+
+}
+#m-top h4{
+   color:black;
+   text-align:center;
+}
+
+
+#train_list_div{ 
+display:none;
+padding-top:100px;
+}
+
+
+
